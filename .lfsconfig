@@ -1,0 +1,2 @@
+[remote "origin"]
+	lfsurl = https://minio-poc.avi.deltares.nl/dvcdata/erik-lfs-test.git
